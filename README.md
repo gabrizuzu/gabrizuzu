@@ -7,8 +7,8 @@ computer engineering student @University of Pisa, italy
 i'm a computer engineering student, i planned to graduate in Sept 2023.
 
 * 🌍  i'm based in Milan, Italy
-* 🎓  bachelor degree in computer engineering
-* 🏫  currently studying for a master degree in "ICT computer engineering busness and innovation" at Polimi
+* 🎓  bachelor degree in computer engineering at Unipi
+* 🏫  currently studying for a master degree in "ICT engineering, business and innovation" at Polimi
 * ✉️  you can contact me at [zuzugabriele24\(at\)gmail.com](mailto:zuzugabriele24b@gmail.com)
 * 🧠  i'm interested in machine learning, artificial intelligent, computer science, statistics and busness management
 * ⚡   my greatest passions are footbal and good food
