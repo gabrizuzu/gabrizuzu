@@ -4,7 +4,7 @@ hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 computer engineering student @University of Pisa, italy
 -------------------------------------------------------
 
-i'm a computer engineering student, i planned to graduate in Sept 2023.
+i'm a computer engineering student.
 
 * 🌍  i'm based in Milan, Italy
 * 🎓  bachelor degree in computer engineering at Unipi
