@@ -1,7 +1,7 @@
 hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Gabriele Shu!
 ===============================================================================================================================
 
-computer engineering student @University of Pisa, italy
+computer engineering student @Politecnico di Milano, italy
 -------------------------------------------------------
 
 i'm a computer engineering student.
